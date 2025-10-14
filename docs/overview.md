@@ -76,97 +76,101 @@
     - WCAG、ARIA、Universal Design原則
     - アクセシビリティ設計、包摂的デザインの専門フレームワーク
 
+14. [**QAテストストラテジスト**](./QAテストストラテジスト_frameworks.md) ✅
+    - Test Pyramid、Agile Testing Quadrants、Risk-Based Testing、Test Design Techniques、Test Automation、Quality Metrics
+    - テスト戦略、自動化、品質保証、欠陥管理の専門フレームワーク
+
 ### コンテンツ・ドキュメント系
 
-14. [**コンテンツ戦略デザイナー**](./コンテンツ戦略デザイナー_frameworks.md) 🔄
+15. [**コンテンツ戦略デザイナー**](./コンテンツ戦略デザイナー_frameworks.md) 🔄
     - Content Audit、Editorial Calendar、SEO最適化
     - コンテンツ戦略、情報設計の専門フレームワーク
 
-15. [**テクニカルライター**](./テクニカルライター_frameworks.md) 🔄
+16. [**テクニカルライター**](./テクニカルライター_frameworks.md) 🔄
     - DITA、ミニマリズム、5W1H分析、ビジネスライティング7C、OpenAPI/Swagger
     - 技術文書作成、ドキュメンテーションの専門フレームワーク
 
-16. [**プレゼンテーション設計者**](./プレゼンテーション設計者_frameworks.md) 🔄
+17. [**プレゼンテーション設計者**](./プレゼンテーション設計者_frameworks.md) 🔄
     - Pyramid Principle、Hero's Journey、Problem-Solution構造、SUCCESs、Rule of Three
     - プレゼンテーション設計、ストーリーテリングの専門フレームワーク
 
-17. [**ビジネス文書コンサルタント**](./ビジネス文書コンサルタント_frameworks.md) 🔄
+18. [**ビジネス文書コンサルタント**](./ビジネス文書コンサルタント_frameworks.md) 🔄
     - RFP対応構造、Value Proposition、契約書基本構造、IMRAD、PREP法
     - ビジネス文書作成、提案書・契約書の専門フレームワーク
 
 ### 人事・組織系
 
-18. [**人事組織開発コンサルタント**](./人事組織開発コンサルタント_frameworks.md) 🔄
+19. [**人事組織開発コンサルタント**](./人事組織開発コンサルタント_frameworks.md) 🔄
     - Competency Model、360度フィードバック、Talent Management
     - 人材育成、組織開発の専門フレームワーク
 
-19. [**キャリア開発コーチ**](./キャリア開発コーチ_frameworks.md) 🔄
+20. [**キャリア開発コーチ**](./キャリア開発コーチ_frameworks.md) 🔄
     - Career Anchors、Planned Happenstance Theory、Career Construction Theory、GROW Model
     - キャリア支援、コーチングの専門フレームワーク
 
-20. [**組織変革コンサルタント**](./組織変革コンサルタント_frameworks.md) 🔄
+21. [**組織変革コンサルタント**](./組織変革コンサルタント_frameworks.md) 🔄
     - Kotter's 8-Step Process、ADKAR Model、Lewin's 3-Stage Model、McKinsey 7S
     - 変革管理、チェンジマネジメントの専門フレームワーク
 
 ### 教育・研究系
 
-21. [**教育設計者**](./教育設計者_frameworks.md) 🔄
+22. [**教育設計者**](./教育設計者_frameworks.md) 🔄
     - Bloom's Taxonomy、ADDIE Model、Gagné's Nine Events、UbD、ARCS Model
     - インストラクショナルデザイン、教育プログラム設計の専門フレームワーク
 
-22. [**ティーチングアシスト（直接指導型）**](./ティーチングアシスト_直接指導型_frameworks.md) 🔄
+23. [**ティーチングアシスト（直接指導型）**](./ティーチングアシスト_直接指導型_frameworks.md) 🔄
     - Direct Instruction、Explicit Teaching、Scaffolding、Formative Assessment
     - 授業支援、学習サポート、効率的知識伝達の専門フレームワーク
 
-23. [**ティーチングアシスト（思考促進型）**](./ティーチングアシスト_思考促進型_frameworks.md) ✅
+24. [**ティーチングアシスト（思考促進型）**](./ティーチングアシスト_思考促進型_frameworks.md) ✅
     - Socratic Method、Scaffolding Theory、Constructivism、Metacognition、Formative Assessment
     - 質問による思考促進、自己発見学習、深い理解促進の専門フレームワーク
 
-24. [**高校情報科TA（探求型）**](./ティーチングアシスト_高校情報_探求_frameworks.md) ✅
+25. [**高校情報科TA（探求型）**](./ティーチングアシスト_高校情報_探求_frameworks.md) ✅
     - Socratic Method、Scaffolding、Constructivism、Metacognition、Formative Assessment
     - 情報Ⅰ・Ⅱの思考促進型学習支援、プログラミング的思考育成、ソクラテス式問答の専門フレームワーク
 
-25. [**研究デザイナー**](./研究デザイナー_frameworks.md) 🔄
+26. [**研究デザイナー**](./研究デザイナー_frameworks.md) 🔄
     - Positivism/Interpretivism、Experimental Research、Grounded Theory、Mixed Methods
     - 研究方法論、調査設計の専門フレームワーク
 
-26. [**学術論文執筆コーチ**](./学術論文執筆コーチ_frameworks.md) 🔄
+27. [**学術論文執筆コーチ**](./学術論文執筆コーチ_frameworks.md) 🔄
     - IMRaD構造、SCQA構造、PEEL段落構造、引用スタイル（APA、MLA、Chicago）
     - 学術ライティング、論文執筆の専門フレームワーク
 
-27. [**科学コミュニケーター**](./科学コミュニケーター_frameworks.md) 🔄
+28. [**科学コミュニケーター**](./科学コミュニケーター_frameworks.md) 🔄
     - Deficit/Dialogue/Participation Model、SUCCESs、Data Visualization、Risk Communication
     - 科学コミュニケーション、リスク伝達の専門フレームワーク
 
 ### 社会・政策系
 
-28. [**政策デザイナー**](./政策デザイナー_frameworks.md) 🔄
+29. [**政策デザイナー**](./政策デザイナー_frameworks.md) 🔄
     - Policy Cycle、Multiple Streams Model、Logic Model、CBA、RIA、Nudge Theory
     - 政策立案、公共政策分析の専門フレームワーク
 
-29. [**社会イノベーションデザイナー**](./社会イノベーションデザイナー_frameworks.md) 🔄
+30. [**社会イノベーションデザイナー**](./社会イノベーションデザイナー_frameworks.md) 🔄
     - Systems Thinking、Theory of Change、Social Business Model Canvas、SROI、Collective Impact
     - 社会課題解決、インパクト評価の専門フレームワーク
 
-30. [**サステナビリティコンサルタント**](./サステナビリティコンサルタント_frameworks.md) 🔄
+31. [**サステナビリティコンサルタント**](./サステナビリティコンサルタント_frameworks.md) 🔄
     - ESG、Materiality Analysis、SDGs、GHG Protocol、SBT、TCFD、Circular Economy
     - サステナビリティ戦略、環境経営の専門フレームワーク
 
-31. [**都市計画デザイナー**](./都市計画デザイナー_frameworks.md) 🔄
+32. [**都市計画デザイナー**](./都市計画デザイナー_frameworks.md) 🔄
     - Compact City、New Urbanism、Smart City、TOD、Placemaking
     - 都市計画、まちづくりの専門フレームワーク
 
 ### イノベーション・変革系
 
-32. [**DX推進コンサルタント**](./DX推進コンサルタント_frameworks.md) 🔄
+33. [**DX推進コンサルタント**](./DX推進コンサルタント_frameworks.md) 🔄
     - DX Maturity Model、デジタル化3層構造、RPA、Data-Driven Management、レガシーモダナイゼーション
     - デジタルトランスフォーメーション、IT戦略の専門フレームワーク
 
-33. [**イノベーションファシリテーター**](./イノベーションファシリテーター_frameworks.md) 🔄
+34. [**イノベーションファシリテーター**](./イノベーションファシリテーター_frameworks.md) 🔄
     - Design Thinking（5フェーズ）、SCAMPER、Brainstorming、Lean Startup、Business Model Canvas、Ambidexterity
     - イノベーション創出、ワークショップファシリテーションの専門フレームワーク
 
-34. [**知的財産ストラテジスト**](./知的財産ストラテジスト_frameworks.md) 🔄
+35. [**知的財産ストラテジスト**](./知的財産ストラテジスト_frameworks.md) 🔄
     - Patent Portfolio Strategy、先行技術調査、Open/Closed戦略、Brand Portfolio、Trade Secret Protection
     - 知的財産戦略、特許戦略の専門フレームワーク
 
@@ -314,7 +318,7 @@
 
 ## 更新履歴
 
-- 2025-01-14: データサイエンティストのオーケストレーター及びフレームワーク詳解ドキュメント作成完了、カスタマーサクセスマネージャーのオーケストレーター及びフレームワーク詳解ドキュメント作成完了、高校情報科TA（探求型）のフレームワーク詳解ドキュメント作成完了、ティーチングアシストの分類を直接指導型・思考促進型に整理
+- 2025-01-14: QAテストストラテジストのオーケストレーター及びフレームワーク詳解ドキュメント作成完了、データサイエンティストのオーケストレーター及びフレームワーク詳解ドキュメント作成完了、カスタマーサクセスマネージャーのオーケストレーター及びフレームワーク詳解ドキュメント作成完了、高校情報科TA（探求型）のフレームワーク詳解ドキュメント作成完了、ティーチングアシストの分類を直接指導型・思考促進型に整理
 - 2025-01-13: RAGデータセクション追加、システムアーキテクトRAGデータ作成完了、参考文献のファクトチェック・修正完了
 - 2025-10-12: プロジェクト開始、汎用コンサルタントのドキュメント作成完了
 

@@ -106,47 +106,59 @@
     - Bloom's Taxonomy、ADDIE Model、Gagné's Nine Events、UbD、ARCS Model
     - インストラクショナルデザイン、教育プログラム設計の専門フレームワーク
 
-20. **研究デザイナー** 🔄
+20. [**ティーチングアシスト（直接指導型）**](./ティーチングアシスト_直接指導型_frameworks.md) 🔄
+    - Direct Instruction、Explicit Teaching、Scaffolding、Formative Assessment
+    - 授業支援、学習サポート、効率的知識伝達の専門フレームワーク
+
+21. [**ティーチングアシスト（思考促進型）**](./ティーチングアシスト_思考促進型_frameworks.md) ✅
+    - Socratic Method、Scaffolding Theory、Constructivism、Metacognition、Formative Assessment
+    - 質問による思考促進、自己発見学習、深い理解促進の専門フレームワーク
+
+22. [**高校情報科TA（探求型）**](./ティーチングアシスト_高校情報_探求_frameworks.md) ✅
+    - Socratic Method、Scaffolding、Constructivism、Metacognition、Formative Assessment
+    - 情報Ⅰ・Ⅱの思考促進型学習支援、プログラミング的思考育成、ソクラテス式問答の専門フレームワーク
+
+23. **研究デザイナー** 🔄
     - Positivism/Interpretivism、Experimental Research、Grounded Theory、Mixed Methods
     - 研究方法論、調査設計の専門フレームワーク
 
-21. **学術論文執筆コーチ** 🔄
+24. **学術論文執筆コーチ** 🔄
     - IMRaD構造、SCQA構造、PEEL段落構造、引用スタイル（APA、MLA、Chicago）
     - 学術ライティング、論文執筆の専門フレームワーク
 
-22. **科学コミュニケーター** 🔄
+25. **科学コミュニケーター** 🔄
     - Deficit/Dialogue/Participation Model、SUCCESs、Data Visualization、Risk Communication
     - 科学コミュニケーション、リスク伝達の専門フレームワーク
 
 ### 社会・政策系
 
-23. **政策デザイナー** 🔄
+26. **政策デザイナー** 🔄
     - Policy Cycle、Multiple Streams Model、Logic Model、CBA、RIA、Nudge Theory
     - 政策立案、公共政策分析の専門フレームワーク
 
-24. **社会イノベーションデザイナー** 🔄
+27. **社会イノベーションデザイナー** 🔄
     - Systems Thinking、Theory of Change、Social Business Model Canvas、SROI、Collective Impact
     - 社会課題解決、インパクト評価の専門フレームワーク
 
-25. **サステナビリティコンサルタント** 🔄
+28. **サステナビリティコンサルタント** 🔄
     - ESG、Materiality Analysis、SDGs、GHG Protocol、SBT、TCFD、Circular Economy
     - サステナビリティ戦略、環境経営の専門フレームワーク
 
-26. **都市計画デザイナー** 🔄
+29. **都市計画デザイナー** 🔄
     - Compact City、New Urbanism、Smart City、TOD、Placemaking
     - 都市計画、まちづくりの専門フレームワーク
 
 ### イノベーション・変革系
 
-27. **DX推進コンサルタント** 🔄
+30. **DX推進コンサルタント** 🔄
     - DX Maturity Model、デジタル化3層構造、RPA、Data-Driven Management、レガシーモダナイゼーション
     - デジタルトランスフォーメーション、IT戦略の専門フレームワーク
 
-28. **イノベーションファシリテーター** 🔄
+31. **イノベーションファシリテーター** 🔄
     - Design Thinking（5フェーズ）、SCAMPER、Brainstorming、Lean Startup、Business Model Canvas、Ambidexterity
     - イノベーション創出、ワークショップファシリテーションの専門フレームワーク
 
-29. **知的財産ストラテジスト** 🔄
+32. **知的財産ストラテジスト** 🔄
     - Patent Portfolio Strategy、先行技術調査、Open/Closed戦略、Brand Portfolio、Trade Secret Protection
     - 知的財産戦略、特許戦略の専門フレームワーク
 
@@ -233,8 +245,9 @@
 
 #### 高優先度（RAGデータ作成済み）
 
-1. **ティーチングアシスト_高校情報** ✅
+1. **高校情報科TA（指導型・探求型）** ✅
    - 情報Ⅰ・Ⅱのカリキュラム、プログラミング例題集、共通テスト対策
+   - ソクラテス式問答パターン、思考促進質問集
    - ファイル: `rag_data/rag_data_高校情報科.json`
 
 2. **システムアーキテクト** ✅
@@ -293,6 +306,7 @@
 
 ## 更新履歴
 
+- 2025-01-14: 高校情報科TA（探求型）のフレームワーク詳解ドキュメント作成完了、ティーチングアシストの分類を直接指導型・思考促進型に整理
 - 2025-01-13: RAGデータセクション追加、システムアーキテクトRAGデータ作成完了、参考文献のファクトチェック・修正完了
 - 2025-10-12: プロジェクト開始、汎用コンサルタントのドキュメント作成完了
 

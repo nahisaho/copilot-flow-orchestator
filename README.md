@@ -6,7 +6,7 @@ Microsoft 365 Copilot Agent対応の対話型オーケストレータープロ�
 
 このリポジトリは、**Microsoft 365 Copilot Agent**や各種AIアシスタント（Claude、ChatGPTなど）で動作する、様々な専門領域における対話型オーケストレーターのプロンプトを収集したものです。
 
-**38種類**のオーケストレーターが、ユーザーの曖昧な要求を構造化された対話を通じて明確化し、確立されたフレームワークを活用して、実行可能な成果物を生成します。Microsoft 365 Copilot Agentとして設定することで、業務に特化したAIアシスタントを構築できます。
+**39種類**のオーケストレーターが、ユーザーの曖昧な要求を構造化された対話を通じて明確化し、確立されたフレームワークを活用して、実行可能な成果物を生成します。Microsoft 365 Copilot Agentとして設定することで、業務に特化したAIアシスタントを構築できます。
 
 ## 特徴
 
@@ -47,10 +47,9 @@ Microsoft 365 Copilot Agent対応の対話型オーケストレータープロ�
 ### 教育・研究
 - **[教育設計者](orchestrators/教育設計者.md)** - 教育設計、学習プログラム開発
   - **[Instructional Designer (English)](orchestrators/InstructionalDesigner.md)** - English version
-- **[ティーチングアシスト](orchestrators/ティーチングアシスト.md)** - 授業実践支援、学習者サポート、TA業務（汎用）
 - **[直接指導型TA](orchestrators/ティーチングアシスト_直接指導型.md)** - 直接指導型TA、明確な説明と解説で効率的学習支援
   - **[Teaching Assistant: Direct Instruction (English)](orchestrators/TeachingAssistant_DirectInstruction.md)** - English version
-- **[思考促進型TA](orchestrators/ティーチングアシスト_思考探求型.md)** - 思考促進型TA、ソクラテス式問答で深い理解促進
+- **[思考促進型TA](orchestrators/ティーチングアシスト_思考促進型.md)** - 思考促進型TA、ソクラテス式問答で深い理解促進
   - **[Teaching Assistant: Inquiry-Based (English)](orchestrators/TeachingAssistant_InquiryBased.md)** - English version
 - **[プログラミング演習TA（指導）](orchestrators/ティーチングアシスト_プログラミング演習_指導.md)** - コード説明・デバッグ・実装支援に特化
 - **[プログラミング演習TA（探求）](orchestrators/ティーチングアシスト_プログラミング演習_探求.md)** - ソクラテス式デバッグで思考力育成

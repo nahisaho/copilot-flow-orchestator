@@ -1,0 +1,8 @@
+# Claude Code development guide (not for public repository)
+CLAUDE.md
+
+# RAG data (contains potentially large knowledge base files)
+rag_data/
+
+create_frameworks_docs.py
+rag_data_priority_list.md

@@ -1,4 +1,4 @@
-# Specialist Agnets
+# Specialist Agent Mode
 
 Microsoft 365 Copilot Agent対応のプロンプトコレクション
 

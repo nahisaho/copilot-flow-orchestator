@@ -118,59 +118,63 @@
     - Bloom's Taxonomy、ADDIE Model、Gagné's Nine Events、UbD、ARCS Model
     - インストラクショナルデザイン、教育プログラム設計の専門フレームワーク
 
-23. [**ティーチングアシスト（直接指導型）**](./ティーチングアシスト_直接指導型_frameworks.md) 🔄
+23. [**多様な視点の同級生**](./多様な視点の同級生_frameworks.md) ⏳
+    - Multiple Intelligence Theory、16 Personalities、Collaborative Learning、Critical Thinking、Creative Thinking
+    - 小規模校向け協働学習、多角的視点育成、8つのペルソナによる対話型学習の専門フレームワーク
+
+24. [**ティーチングアシスト（直接指導型）**](./ティーチングアシスト_直接指導型_frameworks.md) 🔄
     - Direct Instruction、Explicit Teaching、Scaffolding、Formative Assessment
     - 授業支援、学習サポート、効率的知識伝達の専門フレームワーク
 
-24. [**ティーチングアシスト（思考促進型）**](./ティーチングアシスト_思考促進型_frameworks.md) ✅
+25. [**ティーチングアシスト（思考促進型）**](./ティーチングアシスト_思考促進型_frameworks.md) ✅
     - Socratic Method、Scaffolding Theory、Constructivism、Metacognition、Formative Assessment
     - 質問による思考促進、自己発見学習、深い理解促進の専門フレームワーク
 
-25. [**高校情報科TA（探求型）**](./ティーチングアシスト_高校情報_探求_frameworks.md) ✅
+26. [**高校情報科TA（探求型）**](./ティーチングアシスト_高校情報_探求_frameworks.md) ✅
     - Socratic Method、Scaffolding、Constructivism、Metacognition、Formative Assessment
     - 情報Ⅰ・Ⅱの思考促進型学習支援、プログラミング的思考育成、ソクラテス式問答の専門フレームワーク
 
-26. [**研究デザイナー**](./研究デザイナー_frameworks.md) 🔄
+27. [**研究デザイナー**](./研究デザイナー_frameworks.md) 🔄
     - Positivism/Interpretivism、Experimental Research、Grounded Theory、Mixed Methods
     - 研究方法論、調査設計の専門フレームワーク
 
-27. [**学術論文執筆コーチ**](./学術論文執筆コーチ_frameworks.md) 🔄
+28. [**学術論文執筆コーチ**](./学術論文執筆コーチ_frameworks.md) 🔄
     - IMRaD構造、SCQA構造、PEEL段落構造、引用スタイル（APA、MLA、Chicago）
     - 学術ライティング、論文執筆の専門フレームワーク
 
-28. [**科学コミュニケーター**](./科学コミュニケーター_frameworks.md) 🔄
+29. [**科学コミュニケーター**](./科学コミュニケーター_frameworks.md) 🔄
     - Deficit/Dialogue/Participation Model、SUCCESs、Data Visualization、Risk Communication
     - 科学コミュニケーション、リスク伝達の専門フレームワーク
 
 ### 社会・政策系
 
-29. [**政策デザイナー**](./政策デザイナー_frameworks.md) 🔄
+30. [**政策デザイナー**](./政策デザイナー_frameworks.md) 🔄
     - Policy Cycle、Multiple Streams Model、Logic Model、CBA、RIA、Nudge Theory
     - 政策立案、公共政策分析の専門フレームワーク
 
-30. [**社会イノベーションデザイナー**](./社会イノベーションデザイナー_frameworks.md) 🔄
+31. [**社会イノベーションデザイナー**](./社会イノベーションデザイナー_frameworks.md) 🔄
     - Systems Thinking、Theory of Change、Social Business Model Canvas、SROI、Collective Impact
     - 社会課題解決、インパクト評価の専門フレームワーク
 
-31. [**サステナビリティコンサルタント**](./サステナビリティコンサルタント_frameworks.md) 🔄
+32. [**サステナビリティコンサルタント**](./サステナビリティコンサルタント_frameworks.md) 🔄
     - ESG、Materiality Analysis、SDGs、GHG Protocol、SBT、TCFD、Circular Economy
     - サステナビリティ戦略、環境経営の専門フレームワーク
 
-32. [**都市計画デザイナー**](./都市計画デザイナー_frameworks.md) 🔄
+33. [**都市計画デザイナー**](./都市計画デザイナー_frameworks.md) 🔄
     - Compact City、New Urbanism、Smart City、TOD、Placemaking
     - 都市計画、まちづくりの専門フレームワーク
 
 ### イノベーション・変革系
 
-33. [**DX推進コンサルタント**](./DX推進コンサルタント_frameworks.md) 🔄
+34. [**DX推進コンサルタント**](./DX推進コンサルタント_frameworks.md) 🔄
     - DX Maturity Model、デジタル化3層構造、RPA、Data-Driven Management、レガシーモダナイゼーション
     - デジタルトランスフォーメーション、IT戦略の専門フレームワーク
 
-34. [**イノベーションファシリテーター**](./イノベーションファシリテーター_frameworks.md) 🔄
+35. [**イノベーションファシリテーター**](./イノベーションファシリテーター_frameworks.md) 🔄
     - Design Thinking（5フェーズ）、SCAMPER、Brainstorming、Lean Startup、Business Model Canvas、Ambidexterity
     - イノベーション創出、ワークショップファシリテーションの専門フレームワーク
 
-35. [**知的財産ストラテジスト**](./知的財産ストラテジスト_frameworks.md) 🔄
+36. [**知的財産ストラテジスト**](./知的財産ストラテジスト_frameworks.md) 🔄
     - Patent Portfolio Strategy、先行技術調査、Open/Closed戦略、Brand Portfolio、Trade Secret Protection
     - 知的財産戦略、特許戦略の専門フレームワーク
 

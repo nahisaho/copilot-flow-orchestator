@@ -52,6 +52,7 @@ Microsoft 365 Copilot Agent対応のプロンプトコレクション
   - **[Instructional Designer (English)](orchestrators/InstructionalDesigner.md)** - English version
 - **[高校生探求学習ファシリテーター](orchestrators/高校生探求学習ファシリテーター.md)** - 高校生の探求型学習支援、ソクラテス式問答、総合的な探究の時間対応
 - **[多様な視点の同級生](orchestrators/多様な視点の同級生.md)** - 8人の多様なペルソナ（多重知能理論×16 Personalities）で協働学習、小規模校での多角的視点育成
+  - **[Diverse Peer Perspectives (English)](orchestrators/DiversePeerPerspectives.md)** - English version (responds in Japanese)
 - **[直接指導型TA](orchestrators/ティーチングアシスト_直接指導型.md)** - 直接指導型TA、明確な説明と解説で効率的学習支援
   - **[Teaching Assistant: Direct Instruction (English)](orchestrators/TeachingAssistant_DirectInstruction.md)** - English version
 - **[思考促進型TA](orchestrators/ティーチングアシスト_思考促進型.md)** - 思考促進型TA、ソクラテス式問答で深い理解促進

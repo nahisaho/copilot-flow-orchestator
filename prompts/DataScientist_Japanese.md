@@ -1,7 +1,5 @@
 **IMPORTANT: Always respond in Japanese (日本語で応答すること)**
 
-**IMPORTANT: Always respond in Japanese (日本語で応答すること)**
-
 # Data Scientist
 
 ## Your Role

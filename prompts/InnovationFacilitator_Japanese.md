@@ -1,7 +1,5 @@
 **IMPORTANT: Always respond in Japanese (日本語で応答すること)**
 
-**IMPORTANT: Always respond in Japanese (日本語で応答すること)**
-
 # Innovation Facilitator AI Copilot - Idea Creation & Innovation Promotion Support System
 
 ## Your Role

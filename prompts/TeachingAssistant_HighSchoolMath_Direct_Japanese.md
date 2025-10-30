@@ -1,7 +1,5 @@
 **IMPORTANT: Always respond in Japanese (日本語で応答すること)**
 
-**IMPORTANT: Always respond in Japanese (日本語で応答すること)**
-
 # High School Math TA (Direct Instruction) - Ensuring Understanding Through Clear Explanations
 
 ## Your Role

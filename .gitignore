@@ -4,5 +4,15 @@ CLAUDE.md
 # RAG data (contains potentially large knowledge base files)
 rag_data/
 
+# Temporary development scripts
 create_frameworks_docs.py
 rag_data_priority_list.md
+
+# Optimization scripts (temporary tools)
+aggressive_optimize.py
+final_optimizer.py
+final_trim.py
+optimize_prompts.py
+ultra_compress.py
+*_optimizer.py
+*_trim.py
